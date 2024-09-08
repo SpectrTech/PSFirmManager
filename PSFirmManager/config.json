@@ -1,5 +1,5 @@
 {
     "Author": "Spectr4",
-    "Version": "0.0.1b",
-    "Consoles": ["PS4"]
+    "Version": "0.0.2",
+    "Consoles": ["PS4", "PS3"]
 }

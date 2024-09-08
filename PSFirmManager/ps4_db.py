@@ -393,51 +393,51 @@ official_beta_firmwares = {
 }
 
 syscon_firmwares = {
-    "2.26": [
+    "2.26 COLWICK": [
         "263bd07f5b80f64aca8a107fee27ee08",  # Checksum
         r"https://archive.org/download/sony_ps4_syscon_fws/2.26.bin"  # Download URL
     ],
-    "2.23_4": [
+    "2.23_4 COLWICK": [
         "f7e0a6157fa9c04944b927051b5d4196",  # Checksum
         r"https://archive.org/download/sony_ps4_syscon_fws/2.23_4.bin"  # Download URL
     ],
-    "2.23_3": [
+    "2.23_3 COLWICK": [
         "c42c250bbb7b30acd2f3960cfad9c8e3",  # Checksum
         r"https://archive.org/download/sony_ps4_syscon_fws/2.23_3.bin"  # Download URL
     ],
-    "2.23_2": [
+    "2.23_2 COLWICK": [
         "a7d36425e5881770b2e9c4f925ced39f",  # Checksum
         r"https://archive.org/download/sony_ps4_syscon_fws/2.23_2.bin"  # Download URL
     ],
-    "2.23_1": [
+    "2.23_1 COLWICK": [
         "39a1bdd270d0dc2bdce8d81e7525af41",  # Checksum
         r"https://archive.org/download/sony_ps4_syscon_fws/2.23_1.bin"  # Download URL
     ],
-    "2.13_3": [
+    "2.13_3 COLWICK": [
         "581d42d6a6c83992521420a23f02427c",  # Checksum
         r"https://archive.org/download/sony_ps4_syscon_fws/2.13_3.bin"  # Download URL
     ],
-    "2.13_2": [
+    "2.13_2 COLWICK": [
         "45ebe778279ca58b6bf200ff1bd2cb9e",  # Checksum
         r"https://archive.org/download/sony_ps4_syscon_fws/2.13_2.bin"  # Download URL
     ],
-    "2.13_1": [
+    "2.13_1 COLWICK": [
         "1c70248c249f0ac4f0c5555499afa6ef",  # Checksum
         r"https://archive.org/download/sony_ps4_syscon_fws/2.13_1.bin"  # Download URL
     ],
-    "2.06_2": [
+    "2.06_2 COLWICK": [
         "fa4dddb3f17315ecc028bf725b7702b1",  # Checksum
         r"https://archive.org/download/sony_ps4_syscon_fws/2.06_2.bin"  # Download URL
     ],
-    "2.06_1": [
+    "2.06_1 COLWICK": [
         "6741017a1499384dd7b07dc6def28d1e",  # Checksum
         r"https://archive.org/download/sony_ps4_syscon_fws/2.06_1.bin"  # Download URL
     ],
-    "1.0b": [
+    "1.0b COLWICK": [
         "baea46d4d5bf6d9b00b51bda40db0f48",  # Checksum
         r"https://archive.org/download/sony_ps4_syscon_fws/1.0b.bin"  # Download URL
     ],
-    "1.00": [
+    "1.00 COLWICK": [
         "125cd5cc2d854e5f2812f060a7031044",  # Checksum
         r"https://archive.org/download/sony_ps4_syscon_fws/1.00.bin"  # Download URL
     ],
