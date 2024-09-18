@@ -442,3 +442,18 @@ syscon_firmwares = {
         r"https://archive.org/download/sony_ps4_syscon_fws/1.00.bin"  # Download URL
     ],
 }
+
+controller_firmwares = {
+    "Jedi_Sep_13_2013.bin": [
+        "c4f5d845e7fbc4c0dec2d954b14cdc39",  # Checksum
+        r"https://archive.org/download/sony-ps4-rare-files/Controller%20Firmwares/Jedi_Sep_13_2013.bin"
+    ],
+    "Jedi_Sep_13_2013_blob_2.bin": [
+        "a6d0d1df77e43674859440701fd09077",  # Checksum
+        r"https://archive.org/download/sony-ps4-rare-files/Controller%20Firmwares/Jedi_Sep_13_2013_blob_2.bin"
+    ],
+    "Jedi_Aug_3_2013_flash.bin": [
+        "e08c4295080e39e9e848204d1ff34f4d",  # Checksum
+        r"https://archive.org/download/sony-ps4-rare-files/Controller%20Firmwares/Jedi_Aug_3_2013_flash.bin"
+    ]
+}
