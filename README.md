@@ -1,6 +1,6 @@
 ## PSFirmManager - Playstation Firmware Manager v0.0.3
 
-**DISCLAIMER**: This tool is for educational purposes **ONLY** and I am not responsible for any damage on your device. (Read the LICENSE)
+**DISCLAIMER**: This tool is for educational purposes **ONLY** and I am not responsible for any damage on your device.
 
 Playstation Firmware Manager.
 
